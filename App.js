@@ -9,7 +9,7 @@ class App extends Component {
     <View style = {{marginTop: 30}}>
       <Image 
         source={{ uri: 'https://repositorio.sbrauble.com/arquivos/in/magic/313/5f4243b32c323-ybfet2-wsgnx3-dcff8dc1cb1162fa920db66007131ac9.jpg'}}
-        style={{width: 250, height: 355}}
+        style={{width: 250, height: 355, alignSelf: 'center'}}
         />
         
         <Image 
